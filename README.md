@@ -23,3 +23,5 @@ $ npm run start
 # 构建镜像并运行一个 demo 容器
 $ docker-compose up --build
 ```
+
+- 服务端口 3000
